@@ -1,0 +1,3 @@
+[submodule "ar"]
+	path = ar
+	url = git@github.com:sampleperson/ar_experiments.git
